@@ -1,0 +1,44 @@
+body  {
+    color: white;
+    background: black;
+}
+
+header {
+    border: solid 2px rgb(185, 95, 95);
+    padding:20px;
+    font-size: 32px;
+    color: rgb(41, 9, 9)
+}
+
+select{ 
+background: rgb(0, 0, 0);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+}
+.chamado-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
